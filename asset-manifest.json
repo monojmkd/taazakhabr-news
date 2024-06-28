@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/taazakhabr-news/static/css/main.e6c13ad2.css",
-    "main.js": "/taazakhabr-news/static/js/main.53c784b5.js",
-    "static/js/787.3806ead6.chunk.js": "/taazakhabr-news/static/js/787.3806ead6.chunk.js",
+    "main.css": "/taazakhabr-news/static/css/main.4d43ac3a.css",
+    "main.js": "/taazakhabr-news/static/js/main.0018da21.js",
     "static/media/1.png": "/taazakhabr-news/static/media/1.8dddf7dc02e4d9370a5c.png",
     "static/media/loading.gif": "/taazakhabr-news/static/media/loading.0c2993480d0ca8008754.gif",
     "index.html": "/taazakhabr-news/index.html",
-    "main.e6c13ad2.css.map": "/taazakhabr-news/static/css/main.e6c13ad2.css.map",
-    "main.53c784b5.js.map": "/taazakhabr-news/static/js/main.53c784b5.js.map",
-    "787.3806ead6.chunk.js.map": "/taazakhabr-news/static/js/787.3806ead6.chunk.js.map"
+    "main.4d43ac3a.css.map": "/taazakhabr-news/static/css/main.4d43ac3a.css.map",
+    "main.0018da21.js.map": "/taazakhabr-news/static/js/main.0018da21.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.53c784b5.js"
+    "static/css/main.4d43ac3a.css",
+    "static/js/main.0018da21.js"
   ]
 }
