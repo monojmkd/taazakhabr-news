@@ -1,0 +1,66 @@
+{
+  "status": "SUCCESS",
+  "message": null,
+  "data": {
+    "count": 50,
+    "articles": [
+      {
+        "hashId": "n2ybjx8b-1",
+        "oldHashId": "zoya-akhtar-wanted-sonam-kapoor-for-my-role-in-made-in-elnaaz-1691220500242",
+        "authorName": "Bhawana Chaudhary",
+        "content": "Actress Elnaaz Norouzi said that director Zoya Akhtar wanted Sonam Kapoor to play the role that she did in 'Made In Heaven 2'. \"I think Sonam was pregnant at that moment or her dates didn't work out,\" she added. Elnaaz further said that after her audition Zoya asked, \"I don't know this girl. She is great, I want her.\"",
+        "sourceName": "Hindustan Times",
+        "sourceUrl": "https://www.hindustantimes.com/entertainment/web-series/zoya-akhtar-wanted-sonam-kapoor-made-in-heaven-2-elnaaz-norouzi-101691207616238-amp.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+        "title": "Zoya Akhtar wanted Sonam Kapoor for my role in 'Made In..': Elnaaz",
+        "subtitle": "'Made In Heaven 2' will release on August 10",
+        "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/08_aug/5_sat/img_1691218694760_104.jpg?",
+        "shortenedUrl": "https://shrts.in/kecnJ",
+        "categoryNames": ["entertainment"],
+        "relevancyTags": ["entertainment"],
+        "language": "ENGLISH",
+        "countryCode": "IN",
+        "score": 600,
+        "important": false,
+        "createdAt": 1691220500000
+      },
+      {
+        "hashId": "walhhkmu-1",
+        "oldHashId": "us-will-leave-nato-if-erratic-trump-wins-in-2024-exus-nsa-1691220214539",
+        "authorName": "Athira Sasidharan",
+        "content": "Ex-US President Donald Trump's former National Security Adviser, John Bolton, said the US will likely withdraw from NATO military alliance if Trump wins the election. \"[Trump] doesn't think in policy directions when he makes decisions, certainly in the national security space,\" Bolton said. He also criticised Trump for being \"erratic, irrational and unconstrained\" in an interview with The Hill.",
+        "sourceName": "News18",
+        "sourceUrl": "https://www.news18.com/amp/world/us-to-bid-goodbye-to-nato-if-trump-elected-in-2024-ex-nsa-john-bolton-says-8508553.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+        "title": "US will leave NATO if ‘erratic’ Trump wins in 2024: Ex-US NSA",
+        "subtitle": "Trump doesn't really have a philosophy: Bolton",
+        "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/08_aug/5_sat/img_1691217068010_54.jpg?",
+        "shortenedUrl": "https://shrts.in/UieAK",
+        "categoryNames": ["world"],
+        "relevancyTags": ["world"],
+        "language": "ENGLISH",
+        "countryCode": "IN",
+        "score": 600,
+        "important": false,
+        "createdAt": 1691220214000
+      },
+      {
+        "hashId": "jtrmolmc-1",
+        "oldHashId": "28yrold-us-national-caught-staying-in-mcleodganj-without-passport-for-2-years-1691220172687",
+        "authorName": "Arshiya Chopra",
+        "content": "A 28-year-old US national has been arrested after being caught residing in Himachal Pradesh's McLeodganj without passport or other valid documents since 2021, police said. Micah Tyler Height has burnt or lost his passport, the police stated. The police have informed the US Embassy and are now awaiting their reply.",
+        "sourceName": "ANI News",
+        "sourceUrl": "https://www.aninews.in/news/national/general-news/us-national-held-for-residing-in-himachals-mcleodganj-without-passport20230805092703/?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
+        "title": "28-yr-old US national caught staying in McLeodganj without passport for 2 years",
+        "subtitle": "He was sent to 1-day police custody",
+        "imageUrl": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/08_aug/5_sat/img_1691219603484_18.jpg?",
+        "shortenedUrl": "https://shrts.in/sdzg8",
+        "categoryNames": ["national"],
+        "relevancyTags": ["crime"],
+        "language": "ENGLISH",
+        "countryCode": "IN",
+        "score": 800,
+        "important": false,
+        "createdAt": 1691220172000
+      }
+    ]
+  }
+}
