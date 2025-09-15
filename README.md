@@ -1,6 +1,6 @@
 # TaazaKhabr News Portal
 
-![TaazaKhabr Logo](logo.png)  https://monojmkd.github.io/taazakhabr-news/
+![TaazaKhabr Logo](logo.png)  https://taazakhabr-news.vercel.app/
 
 
 
